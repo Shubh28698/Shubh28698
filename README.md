@@ -6,6 +6,8 @@
 👉I am a data science enthusiast and has been constantly looking to innovate something beneficial and wonderful
 <br>👉I am very fond of writing blogs which focuses on the content related to data science, machine learning</br>
 <br>👉I am constantly in learning phase</br>
+
+
 For blogs, you can follow me on:
 <br>✒ https://dev.to/shubh28698</br>
 <br>✒ https://medium.com/@shubhamchaudhari28698</br>
