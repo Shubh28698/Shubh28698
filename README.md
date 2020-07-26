@@ -5,10 +5,9 @@
 <p align='center'>
 I am a data science enthusiast and has been constantly looking to innovate something beneficial and wonderful
 I am very fond of writing blogs which focuses on the content related to data science, machine learning.
-I am constantly in learning phase. Likes to learn in project oriented manner.
+I am constantly in learning phase. Likes to unleashe & implement projects with latest libraries & supporting technologies.
 
-
-For blogs, you can follow me on:
+<p style="text-align:center;">For blogs, you can follow me on:</p>
 <br>✒ https://dev.to/shubh28698</br>
 <br>✒ https://medium.com/@shubhamchaudhari28698</br>
 <br>✒ https://flipboard.com/@Shubham28698?from=share</br>
