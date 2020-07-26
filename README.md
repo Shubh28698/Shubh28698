@@ -8,7 +8,7 @@ I am very fond of writing blogs which focuses on the content related to data sci
 I am constantly in learning phase. Likes to unleashe & implement projects with latest libraries & supporting technologies.
 
 <p align='center'>For blogs, you can follow me on:</p>
-<br>✒ https://dev.to/shubh28698</br>
+<br><p align='center'✒ https://dev.to/shubh28698</p></br>
 <br>✒ https://medium.com/@shubhamchaudhari28698</br>
 <br>✒ https://flipboard.com/@Shubham28698?from=share</br>
 
