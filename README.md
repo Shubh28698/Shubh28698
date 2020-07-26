@@ -2,7 +2,8 @@
 <p align = 'center'> 
  <a href = https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-chaudhari-57286a175/ target='blank'<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a></p>
 <h2 align='center'>About Me🤓</h2>
-<p align='center'>👉I am a data science enthusiast and has been constantly looking to innovate something beneficial and wonderful
+<p align='center'>
+👉I am a data science enthusiast and has been constantly looking to innovate something beneficial and wonderful
 👉I am very fond of writing blogs which focuses on the content related to data science, machine learning
 
 For blogs, you can follow me on:
