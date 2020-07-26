@@ -4,11 +4,12 @@
 <h2 align='center'>About Me🤓</h2>
 <p align='center'>
 👉I am a data science enthusiast and has been constantly looking to innovate something beneficial and wonderful
-👉I am very fond of writing blogs which focuses on the content related to data science, machine learning
+<br>👉I am very fond of writing blogs which focuses on the content related to data science, machine learning</br>
 
 For blogs, you can follow me on:
 ✒ dev.to/shubh28698
-✒ medium.com/@shubhamchaudhari28698
+
+<br>✒ medium.com/@shubhamchaudhari28698</br>
 ✒ https://flipboard.com/@Shubham28698?from=share
 
 👉I am constantly in learning phase
