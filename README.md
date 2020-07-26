@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align='center'>Hey 👋, This is Shubham Chaudhari</h1>
+<p align = 'center'> 
+ <a href = https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-chaudhari-57286a175/ target='blank'<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a></p>
+<h2 align='center'>About Me🤓</h2>
+<p align='center'>👉I am a data science enthusiast and has been constantly looking to innovate something beneficial and wonderful
+👉I am very fond of writing blogs which focuses on the content related to data science, machine learning
 
-<!--
-**Shubh28698/Shubh28698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For blogs, you can follow me on:
+✒ dev.to/shubh28698
+✒ medium.com/@shubhamchaudhari28698
+✒ https://flipboard.com/@Shubham28698?from=share
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉I am constantly in learning phase
+</p><h2 align='center'>Connect with me  📫 </h2>
+<p align = 'center'> 
+ <a href = https://github.com/Shubh28698 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
+<a href = https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-chaudhari-57286a175/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://twitter.com/@Shubham28698 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
