@@ -7,7 +7,7 @@
 <br>👉I am very fond of writing blogs which focuses on the content related to data science, machine learning</br>
 
 For blogs, you can follow me on:
-✒ https://dev.to/shubh28698
+<br>✒ https://dev.to/shubh28698</br>
 
 <br>✒ https://medium.com/@shubhamchaudhari28698</br>
 <br>✒ https://flipboard.com/@Shubham28698?from=share</br>
