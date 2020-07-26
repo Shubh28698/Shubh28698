@@ -9,8 +9,8 @@ I am constantly in learning phase. Likes to unleashe & implement projects with l
 
 <p align='center'>For blogs, you can follow me on:</p>
 <br><p align='center'>✒ https://dev.to/shubh28698</p></br>
-<br>✒ https://medium.com/@shubhamchaudhari28698</br>
-<br>✒ https://flipboard.com/@Shubham28698?from=share</br>
+<br><p align='center'>✒ https://medium.com/@shubhamchaudhari28698</p></br>
+<br><p align='center'>✒ https://flipboard.com/@Shubham28698?from=share</p></br>
 
 
 </p><h2 align='center'>Connect with me  📫 </h2>
