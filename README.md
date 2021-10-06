@@ -3,15 +3,8 @@
  <a href = https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-chaudhari-57286a175/ target='blank'<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a></p>
 <h2 align='center'>About Me🤓</h2>
 <p align='center'>
-I am a Tech enthusiast and has been constantly looking to innovate something beneficial and wonderful.
-I am very fond of writing blogs which focuses on the content related to data science, machine learning.
-I am constantly in learning phase. Likes to unleash & implement projects with latest libraries & supporting technologies.
-
-<p align='center'>For blogs, you can follow me on:</p>
-<br><p align='center'>✒ https://dev.to/shubh28698</p></br>
-<br><p align='center'>✒ https://medium.com/@shubhamchaudhari28698</p></br>
-<br><p align='center'>✒ https://flipboard.com/@Shubham28698?from=share</p></br>
-
+I am a Tech enthusiast who loves to innovate beneficial projects using the magic of technologies.
+I am currently exploring Cloud Technology field.
 
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
