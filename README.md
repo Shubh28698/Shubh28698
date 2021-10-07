@@ -5,7 +5,7 @@
 <p align='center'>
 I am a tech enthusiast who loves to innovate cool projects using the magic of technologies.
 I am currently exploring Cloud Technology field & stepping into the open-source world.
-<p align = 'center'><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<p align = 'center'><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Shubh280698/Shubh280698/blob/master/DevCard.svg" width="400" alt="Shubham Chaudhari's Dev Card"/></a>
 
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
