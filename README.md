@@ -22,9 +22,11 @@ I am currently exploring Cloud Technology field☁️ & stepping into the open-s
  <a href="https://github.com/Shubh28698/Shubh28698">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh28698&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+<a href="https://github.com/Shubh28698/Shubh28698">
 <img 
    src="https://github-readme-stats.vercel.app/api?username=Shubh28698&show_icons=true&theme=tokyonight" 
 />
+</a>
 
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
