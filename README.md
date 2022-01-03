@@ -6,7 +6,7 @@
 I am a tech enthusiast who loves to innovate cool projects🖥️ using the magic of technologies.
 I am currently exploring Cloud Technology field☁️ & stepping into the open-source world.
  
-<p align = 'center'> ## My Latest Blog Posts 👇
+ ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 
