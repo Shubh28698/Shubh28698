@@ -1,7 +1,8 @@
 <h1 align='center'>Hey👋, This is Shubham Chaudhari</h1>
 <p align = 'center'> 
  <a href = https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-chaudhari-57286a175/ target='blank'<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a></p>
- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Shubh28698.Shubh28698)
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Shubh28698.Shubh28698)
 <h2 align='center'>About Me🤓</h2>
 <p align='center'>
 I am a tech enthusiast who loves to innovate cool projects🖥️ using the magic of technologies.
