@@ -6,9 +6,10 @@
 I am a tech enthusiast who loves to innovate cool projects🖥️ using the magic of technologies.
 I am currently exploring Cloud Technology field☁️ & stepping into the open-source world.
  
- ## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+ # 📩 Latest Blog Posts // You can name it whatever you want.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <p align = 'center'><a href="https://app.daily.dev/Shubh28_06_1998"><img src="https://github.com/Shubh28698/Shubh28698/blob/master/devcard.svg" width="400" alt="Shubham Chaudhari's Dev Card"/></a>
  
