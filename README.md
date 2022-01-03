@@ -8,6 +8,9 @@ I am currently exploring Cloud Technology field☁️ & stepping into the open-s
  
 ## 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Playing with files &amp; directories in Linux🐧](https://shubh28698.hashnode.dev/playing-with-files-and-directories-in-linux)
+- [Navigating into File system in Linux🐧](https://shubh28698.hashnode.dev/navigating-into-file-system-in-linux)
+- [A Quick look into Linux🐧](https://shubh28698.hashnode.dev/a-quick-look-into-linux)
 <!-- BLOG-POST-LIST:END -->
 
 
