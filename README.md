@@ -6,7 +6,7 @@
 I am a tech enthusiast who loves to innovate cool projects🖥️ using the magic of technologies.
 I am currently exploring Cloud Technology field☁️ & stepping into the open-source world.
  
- # 📩 Latest Blog Posts // You can name it whatever you want.
+## 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
