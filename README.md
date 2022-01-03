@@ -19,12 +19,12 @@ I am currently exploring Cloud Technology field☁️ & stepping into the open-s
 <p align = 'center'><a href="https://app.daily.dev/Shubh28_06_1998"><img src="https://github.com/Shubh28698/Shubh28698/blob/master/devcard.svg" width="400" alt="Shubham Chaudhari's Dev Card"/></a>
  
  <h2>My Github Stats📈</h2>
+ 
  <a href="https://github.com/Shubh28698/Shubh28698">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh28698&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Shubh28698/Shubh28698">
-<img src="https://github-readme-stats.vercel.app/api?username=Shubh28698&show_icons=true&theme=tokyonight" 
-/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubh28698&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 </p><h2 align='center'>Connect with me  📫 </h2>
