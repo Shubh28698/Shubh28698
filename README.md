@@ -1,34 +1,34 @@
-<h1>Heya techies👋</h1>
-<p align = 'center'> 
- <a href = https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-chaudhari-57286a175/ target='blank'<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a></p>
+<h1 align="center">Hi 👋, I'm Shubham</h1>
+<h3 align="center">A passionate software engineer from India. I am currently exploring Cloud & DevOps tech & loves to share my knowledge with tech communities.</h3>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Shubh28698.Shubh28698)
-<h2>About Me🤓</h2>
-<p align='center'>
-I am a tech enthusiast who loves to innovate cool projects🖥️ using the magic of technologies.
-I am currently exploring Cloud Technology field☁️ & stepping into the open-source world.
- 
-## 📩 Latest Blog Posts 
-<!-- BLOG-POST-LIST:START -->
-- [Playing with files &amp; directories in Linux🐧](https://shubh28698.hashnode.dev/playing-with-files-and-directories-in-linux)
-- [Navigating into File system in Linux🐧](https://shubh28698.hashnode.dev/navigating-into-file-system-in-linux)
-- [A Quick look into Linux🐧](https://shubh28698.hashnode.dev/a-quick-look-into-linux)
-<!-- BLOG-POST-LIST:END -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh28698&label=Profile%20views&color=0e75b6&style=flat" alt="shubh28698" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh28698" alt="shubh28698" /></a> </p>
 
-<p align = 'center'><a href="https://app.daily.dev/Shubh28_06_1998"><img src="https://github.com/Shubh28698/Shubh28698/blob/master/devcard.svg" width="400" alt="Shubham Chaudhari's Dev Card"/></a>
- 
- <h2>My Github Stats📈</h2>
- 
- <a href="https://github.com/Shubh28698/Shubh28698">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh28698&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Shubh28698/Shubh28698">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubh28698&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+<p align="left"> <a href="https://twitter.com/shubham28698" target="blank"><img src="https://img.shields.io/twitter/follow/shubham28698?logo=twitter&style=for-the-badge" alt="shubham28698" /></a> </p>
 
-</p><h2 align='center'>Connect with me  📫 </h2>
-<p align = 'center'> 
- <a href = https://github.com/Shubh28698 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-chaudhari-57286a175/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/@Shubham28698 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
+- 🌱 I’m currently learning **Linux, GO**
+
+- 📝 I regularly write articles on [https://shubh28698.hashnode.dev/](https://shubh28698.hashnode.dev/)
+
+- 📫 How to reach me **shubhamchaudhari28698@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shubham28698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham28698" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham28698/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham28698/" height="30" width="40" /></a>
+<a href="https://hashnode.com/@shubh28698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shubh28698" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/know the tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="know the tech" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/https://ko-fi.com/knowthetechwithshubham"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/knowthetechwithshubham" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh28698&show_icons=true&locale=en&layout=compact" alt="shubh28698" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh28698&show_icons=true&locale=en" alt="shubh28698" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh28698&" alt="shubh28698" /></p>
