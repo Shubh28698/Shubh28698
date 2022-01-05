@@ -20,6 +20,10 @@
 - [A Quick look into Linux🐧](https://shubh28698.hashnode.dev/a-quick-look-into-linux)
 <!-- HASHNODE:END -->
 
+<!-- YT LIST START -->
+<a href="https://www.youtube.com/watch?v=fGxqt0j6wFE">
+<img src="https://i3.ytimg.com/vi/fGxqt0j6wFE/hqdefault.jpg" align="left" width="200" style="border-radius:40px" />
+
 
 <h3 align="left">Connect with me📭:</h3>
 <p align="left">
