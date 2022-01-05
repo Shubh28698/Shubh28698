@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh28698&label=Profile%20views&color=0e75b6&style=flat" alt="shubh28698" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubh28698&theme=dracula" alt="shubh28698" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubh28698&theme=darkhub" alt="shubh28698" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shubham28698" target="blank"><img src="https://img.shields.io/twitter/follow/shubham28698?logo=twitter&style=for-the-badge" alt="shubham28698" /></a> </p>
 
@@ -36,8 +36,8 @@
 <p><a href="https://ko-fi.com/knowthetechwithshubham"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/knowthetechwithshubham" /></a></p><br><br>
 
 ## Github Stats📈 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh28698&show_icons=true&locale=en&layout=compact&theme=radical" alt="shubh28698" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh28698&show_icons=true&locale=en&layout=compact&theme=dark" alt="shubh28698" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh28698&show_icons=true&locale=en&theme=radical" alt="shubh28698" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh28698&show_icons=true&locale=en&theme=dark" alt="shubh28698" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh28698&&theme=radical" alt="shubh28698" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh28698&&theme=dark" alt="shubh28698" /></p>
