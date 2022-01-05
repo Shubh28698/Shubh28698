@@ -1,4 +1,4 @@
-<img align ="center" src="header.jpg" alt="">
+<p align = "center" <img src="header.jpg" alt=""></p>
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate software engineer from India. I am currently exploring Cloud & DevOps tech & loves opensource & sharing my knowledge with tech communities.</h3>
 
