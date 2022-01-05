@@ -36,7 +36,8 @@
 <p><a href="https://ko-fi.com/knowthetechwithshubham"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/knowthetechwithshubham" /></a></p><br><br>
 
 ## Github Stats📈 
-
+<div style="display: flex; flex-direction: row;">
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shubh28698&show_icons=true&locale=en&theme=tokyonight" alt="shubh28698" /></p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh28698&&theme=tokyonight" alt="shubh28698" />
+ </div>
