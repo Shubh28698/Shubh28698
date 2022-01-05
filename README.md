@@ -37,7 +37,6 @@
 
 ## Github Stats📈 
 <div style="display: flex; flex-direction: row;">
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shubh28698&show_icons=true&locale=en&theme=tokyonight" alt="shubh28698" /></p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh28698&&theme=tokyonight" alt="shubh28698" />
- </div>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Shubh28698&show_icons=true&theme=tokyonight" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh28698&theme=tokyonight&layout=compact" />
+</div>
