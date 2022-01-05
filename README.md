@@ -38,6 +38,6 @@
 ## Github Stats📈 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh28698&show_icons=true&locale=en&layout=compact" alt="shubh28698" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh28698&show_icons=true&locale=en" alt="shubh28698" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh28698&show_icons=true&locale=en&theme=radical" alt="shubh28698" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh28698&" alt="shubh28698" /></p>
