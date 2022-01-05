@@ -38,5 +38,5 @@
 ## Github Stats📈 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Shubh28698&show_icons=true&theme=tokyonight" />
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh28698&&theme=tokyonight" alt="shubh28698" /></p>
 </div>
